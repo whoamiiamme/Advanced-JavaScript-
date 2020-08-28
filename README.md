@@ -6,3 +6,5 @@ https://www.webfx.com/blog/web-design/6-advanced-javascript-techniques-you-shoul
 JavaScript Tutorials
 https://htmldog.com/guides/javascript/
 
+JavaScript Tutorials
+http://www.javascriptkit.com/javatutors/
